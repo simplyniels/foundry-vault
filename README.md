@@ -57,9 +57,7 @@ If you already keep personal notes (a commonplace, Zettelkasten, or notes folder
 
 - **Areas**: Edit the `#area/` taxonomy in `CLAUDE.md` to match your interests
 - **Keywords**: Managed in `wiki/_meta/index.md` — add new ones as your reading grows
-- **Obsidian setup**: The `.obsidian/` config is included with a clean base setup. Recommended plugins and theme to install via Obsidian's community browser:
-  - Theme: [Minimal](https://minimal.guide)
-  - Plugins: [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings), [Style Settings](https://github.com/mgmeyers/obsidian-style-settings), [Hider](https://github.com/kepano/obsidian-hider)
+- **Obsidian theme**: The `.obsidian/` config is included with a clean setup. Swap themes or plugins as you like
 - **Voice**: Concept articles are written as sharp foundations for *your* writing, not finished essays. Adjust the voice instructions in `CLAUDE.md` if you want a different tone
 
 ## What's included
