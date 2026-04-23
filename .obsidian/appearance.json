@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidianite",
   "accentColor": "#8c8c8c",
   "interfaceFontFamily": "iA Writer Quattro V",
   "textFontFamily": "iA Writer Quattro V",
   "baseFontSize": 13,
   "showRibbon": false,
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSizeAction": true
 }
