@@ -51,9 +51,9 @@ Claude won't create a concept article from a single source. Themes are logged as
 | `/foundry-ask` | Research a question across the vault |
 | `/foundry-lint` | Health-check: stats, orphans, keyword drift |
 
-## Companion vault (optional)
+## ==Companion vault (optional)==
 
-If you already keep personal notes (a commonplace, Zettelkasten, or notes folder), you can point Claude at it as a read-only companion. Claude will cross-reference your notes when compiling but never write into them. See `CLAUDE.md` for setup.
+==If you already keep personal notes (a commonplace, Zettelkasten, or notes folder), you can point Claude at it as a read-only companion. Claude will cross-reference your notes when compiling but never write into them. See `CLAUDE.md` for setup.==
 
 ## Customisation
 
